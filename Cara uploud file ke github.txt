@@ -1,0 +1,26 @@
+Cara uploud file ke github
+
+1. git init
+   git status
+2. git add .
+   git status
+3. git commit -m "uploud file"
+4. git remote add origin https://github.com/edioppo23/hari4.git
+5. git push -u origin master
+selesai
+
+merubah file 
+1. git status ->  modified 
+2. git add . 
+3. git commit -m "menambahkan data"
+4. git push -u origin master
+
+cara bikin branch 
+1. git checkout -b (nama branch) 
+2. git status
+3. git add .
+4. git commit -m " nama commit"
+5. git push -u origin (nama branch)
+6. memasukan email/ username dan password di github
+
+
